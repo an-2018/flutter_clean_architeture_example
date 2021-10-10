@@ -1,0 +1,1 @@
+# Here we add the interfaces or abstractions for the app repositories

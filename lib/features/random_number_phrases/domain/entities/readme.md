@@ -1,0 +1,1 @@
+# Here we add the classes that represent our app domain, they should be platform or library agnostic, so that if we get then to other development languages for example they should work seamlessly

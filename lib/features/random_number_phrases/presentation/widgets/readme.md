@@ -1,0 +1,1 @@
+# Here we add the common widgets of the application

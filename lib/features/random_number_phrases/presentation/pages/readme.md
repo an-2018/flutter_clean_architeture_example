@@ -1,0 +1,1 @@
+# Here we add the pages of the application

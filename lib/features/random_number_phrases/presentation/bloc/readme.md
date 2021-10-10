@@ -1,0 +1,1 @@
+# Here we add state management, being it with bloc or other framework or methodology
